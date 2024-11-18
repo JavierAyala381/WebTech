@@ -1,0 +1,22 @@
+.presentation-container {
+    border-radius: 10px;
+    width: 350px;
+    height: 350px;
+    margin: 20px;
+    box-shadow: 0px 0px 11px 2px lightgray;
+    display: inline-flex;
+    flex-direction: column;
+    padding: 20px;
+    align-items: center;
+}
+
+.icon {
+    width: 100px;
+    height: 100px;
+    color: lightblue;
+}
+
+.description {
+    font-size: 12px;
+    font-family: ui-serif;
+}
